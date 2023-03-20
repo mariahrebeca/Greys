@@ -1,6 +1,7 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using Greys.Models;
+using Greys.Services;
 
 namespace Greys.Controllers;
 
@@ -8,14 +9,24 @@ public class HomeController : Controller
 {
     private readonly ILogger<HomeController> _logger;
 
-    public HomeController(ILogger<HomeController> logger)
+    public HomeController(ILogger<HomeController> logger, IGreyService greyService)
     {
         _logger = logger;
+        _greyService = greyService;
     }
 
-    public IActionResult Index()
+    public IActionResult Index(string tipo)
     {
-        return View();
+        var grey = _greyService.GetPokedexDto();
+        ViewData["filter"] = string.IsNullOrEmpty(tipo) ? "all" : tipo;
+        return View(grey);
+
+    }
+
+    public IActionResult Details(int Numero)
+    {
+        var grey = _greyService.GetDetailedGrey(Numero);
+        return View(grey);
     }
 
     public IActionResult Privacy()

@@ -1,74 +1,38 @@
 ﻿[
   {
     "Nome": "Pediatria",
-    "Cor": "#E67EAD"
+    "Cor": "#f63"
   },
   {
-    "Nome": "Água",
+    "Nome": "Ortopedia",
     "Cor": "#39f"
   },
   {
-    "Nome": "Dragão",
+    "Nome": "Trauma",
     "Cor": "#76e"
   },
   {
-    "Nome": "Elétrico",
+    "Nome": "Cardiologia",
     "Cor": "#fc3"
   },
   {
-    "Nome": "Fada",
+    "Nome": "Cirurgia Geral",
     "Cor": "#e9e"
   },
   {
-    "Nome": "Fantasma",
+    "Nome": "Neurocirurgia",
     "Cor": "#66b"
   },
   {
-    "Nome": "Fogo",
+    "Nome": "Cirurgia Plástica",
     "Cor": "#f42"
   },
   {
-    "Nome": "Gelo",
+    "Nome": "Residente",
     "Cor": "#6cf"
   },
   {
-    "Nome": "Inseto",
+    "Nome": "Oncologia",
     "Cor": "#ab6"
-  },
-  {
-    "Nome": "Lutador",
-    "Cor": "#b54"
-  },
-  {
-    "Nome": "Normal",
-    "Cor": "#aa9"
-  },
-  {
-    "Nome": "Pedra",
-    "Cor": "#ba6"
-  },
-  {
-    "Nome": "Planta",
-    "Cor": "#7c5"
-  },
-  {
-    "Nome": "Psíquico",
-    "Cor": "#f59"
-  },
-  {
-    "Nome": "Sombrio",
-    "Cor": "#754"
-  },
-  {
-    "Nome": "Terrestre",
-    "Cor": "#db5"
-  },
-  {
-    "Nome": "Venenoso",
-    "Cor": "#a59"
-  },
-  {
-    "Nome": "Voador",
-    "Cor": "#89f"
   }
 ]
