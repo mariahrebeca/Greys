@@ -8,6 +8,7 @@ namespace Greys.Controllers;
 public class HomeController : Controller
 {
     private readonly ILogger<HomeController> _logger;
+    private readonly IGreyService _greyService;
 
     public HomeController(ILogger<HomeController> logger, IGreyService greyService)
     {
@@ -17,7 +18,7 @@ public class HomeController : Controller
 
     public IActionResult Index(string tipo)
     {
-        var grey = _greyService.GetPokedexDto();
+        var grey = _greyService.GetGreyDto();
         ViewData["filter"] = string.IsNullOrEmpty(tipo) ? "all" : tipo;
         return View(grey);
 

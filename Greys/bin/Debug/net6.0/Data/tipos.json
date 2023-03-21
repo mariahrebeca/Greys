@@ -1,0 +1,38 @@
+﻿[
+  {
+    "Nome": "Pediatria",
+    "Cor": "#f63"
+  },
+  {
+    "Nome": "Ortopedia",
+    "Cor": "#39f"
+  },
+  {
+    "Nome": "Trauma",
+    "Cor": "#76e"
+  },
+  {
+    "Nome": "Cardiologia",
+    "Cor": "#fc3"
+  },
+  {
+    "Nome": "Cirurgia Geral",
+    "Cor": "#e9e"
+  },
+  {
+    "Nome": "Neurocirurgia",
+    "Cor": "#66b"
+  },
+  {
+    "Nome": "Cirurgia Plástica",
+    "Cor": "#f42"
+  },
+  {
+    "Nome": "Residente",
+    "Cor": "#6cf"
+  },
+  {
+    "Nome": "Oncologia",
+    "Cor": "#ab6"
+  }
+]

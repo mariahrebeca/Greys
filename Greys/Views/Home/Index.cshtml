@@ -1,5 +1,5 @@
 ﻿@model GreyDto
-@inject Grey.Services.IGreyService service
+@inject Greys.Services.IGreyService service
 @{
     ViewData["Title"] = "Home";
 }<section class="pt-5 pb-3 text-center container">
@@ -25,7 +25,7 @@ btn-filter" onclick="filter('@tipo.Nome.ToLower()')" style="background-color:@ti
     <div class="container">
         <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 g-3">
             <!-- Card Grey - Inicio -->
-            @foreach (var grey in Model.Grey)
+            @foreach (var grey in Model.Greys)
             {
                 <div class="col">
                     <div class="card shadow-sm cursor-pointer @string.Join(' ',
@@ -39,7 +39,7 @@ grey.Tipo).ToLower()" onclick="GetInfo(@grey.Numero)">
                                     @foreach (var tipo in grey.Tipo)
                                     {
                                         <a asp-action="Index" asp-routetipo="@tipo.ToLower()" class="btn my-2 text-white"
-                                    style="backgroundcolor:@service.GetTipo(tipo).Cor">@tipo</a>
+                                    style="backgroundcolor:@service.GetTipos(tipo).Cor">@tipo</a>
                                     }
                                 </div>
                             </div>
@@ -47,8 +47,8 @@ grey.Tipo).ToLower()" onclick="GetInfo(@grey.Numero)">
                     </div>
                 </div>
             }
-            <!-- Card Pokemon - Fim -->
-            <div id="zeroPokemon" class="col-lg-12 text-center">
+            <!-- Card Greys - Fim -->
+            <div id="zeroGrey" class="col-lg-12 text-center">
                 <h1 class="my-3 text-danger"></h1>
             </div>
         </div>

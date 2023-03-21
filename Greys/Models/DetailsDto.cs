@@ -6,4 +6,4 @@ namespace Greys.Models
         public Grey Current { get; set; }
         public Grey Next { get; set; }
     }
-}
+}                   

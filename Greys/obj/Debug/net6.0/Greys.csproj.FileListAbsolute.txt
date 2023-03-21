@@ -24,3 +24,5 @@ C:\Users\etec\Desktop\Greys\Greys\obj\Debug\net6.0\refint\Greys.dll
 C:\Users\etec\Desktop\Greys\Greys\obj\Debug\net6.0\Greys.pdb
 C:\Users\etec\Desktop\Greys\Greys\obj\Debug\net6.0\Greys.genruntimeconfig.cache
 C:\Users\etec\Desktop\Greys\Greys\obj\Debug\net6.0\ref\Greys.dll
+C:\Users\etec\Desktop\Greys\Greys\bin\Debug\net6.0\Data\personagens.json
+C:\Users\etec\Desktop\Greys\Greys\bin\Debug\net6.0\Data\tipos.json

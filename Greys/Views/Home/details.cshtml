@@ -1,7 +1,7 @@
 @model DetailsDto
-@inject Pokedex.Services.IPokeService service
+@inject Greys.Services.IGreyService service
 @{
-    ViewData["Title"] = "Pokemon";
+    ViewData["Title"] = "Grey";
 } < section class="pt-5 container">
     <div class="row">
         <div class="col text-center">
@@ -32,15 +32,12 @@ btn-lg btn-outline-dark">
         </div>
         <div class="col-lg-7 fs-5 mt-4">
             <p class="mb-3"><strong>Descrição:</strong> @Model.Current.Descricao</p>
-            <p class="mb-3"><strong>Categoria:</strong> @Model.Current.Especie</p>
-            <p class="mb-3"><strong>Altura:</strong> @Model.Current.Altura mts</p>
-            <p class="mb-3"><strong>Peso:</strong> @Model.Current.Peso kgs</p>
             <p class="fw-bold">Tipo</p>
             <div class="btn-group">
                 @foreach (var tipo in Model.Current.Tipo)
                 {
                     <a asp-action="Index" asp-route-tipo="@tipo.ToLower()" class="btn btn-lg
-text-white" style="background-color:@service.GetTipo(tipo).Cor">@tipo</a>
+text-white" style="background-color:@service.GetTipos(tipo).Cor">@tipo</a>
                 }
             </div>
         </div>

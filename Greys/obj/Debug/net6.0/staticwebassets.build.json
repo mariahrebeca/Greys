@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "3bT+vSs/uNXgAPjLxv3Dh6Lps/OktL0tF4XGUPRxpHU=",
+  "Hash": "s9jXGUElFkB68hRHp/9Vvokjf2oFYYy/RvBND/vpOSA=",
   "Source": "Greys",
   "BasePath": "_content/Greys",
   "Mode": "Default",
@@ -66,40 +66,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
-    },
-    {
-      "Identity": "C:\\Users\\etec\\Desktop\\Greys\\Greys\\wwwroot\\dados\\personagens.json",
-      "SourceId": "Greys",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Greys\\Greys\\wwwroot\\",
-      "BasePath": "_content/Greys",
-      "RelativePath": "dados/personagens.json",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\dados\\personagens.json"
-    },
-    {
-      "Identity": "C:\\Users\\etec\\Desktop\\Greys\\Greys\\wwwroot\\dados\\tipos.json",
-      "SourceId": "Greys",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Greys\\Greys\\wwwroot\\",
-      "BasePath": "_content/Greys",
-      "RelativePath": "dados/tipos.json",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\dados\\tipos.json"
     },
     {
       "Identity": "C:\\Users\\etec\\Desktop\\Greys\\Greys\\wwwroot\\favicon.ico",
