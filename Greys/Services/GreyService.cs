@@ -57,7 +57,7 @@ namespace Greys.Services
             return grey;
         }
 
-        public Tipo GetTipos(string Nome)
+        public Tipo GetTipo(string Nome)
         {
             var tipos = GetTipos();
             return tipos.Where(t => t.Nome == Nome).FirstOrDefault();
@@ -67,10 +67,8 @@ namespace Greys.Services
         {
             if (string.IsNullOrEmpty(_session.HttpContext.Session.GetString("Tipos")))
             {
-                _session.HttpContext.Session
-                .SetString("Personagens", LerArquivo(greysFile));
-                _session.HttpContext.Session
-                .SetString("Tipos", LerArquivo(tiposFile));
+                _session.HttpContext.Session.SetString("Personagens", LerArquivo(greysFile));
+                _session.HttpContext.Session.SetString("Tipos", LerArquivo(tiposFile));
             }
         }
 

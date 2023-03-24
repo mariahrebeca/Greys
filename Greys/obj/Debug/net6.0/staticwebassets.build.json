@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "s9jXGUElFkB68hRHp/9Vvokjf2oFYYy/RvBND/vpOSA=",
+  "Hash": "ALKEk5Jy/mUia/cZlZAnyVmj81eriQY8Rn+75HAWoH8=",
   "Source": "Greys",
   "BasePath": "_content/Greys",
   "Mode": "Default",
@@ -340,12 +340,12 @@
       "OriginalItemSpec": "wwwroot\\img\\elenco\\Owen_Hunt.jpg"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Greys\\Greys\\wwwroot\\img\\favicons\\android-chrome-512x512.png",
+      "Identity": "C:\\Users\\etec\\Desktop\\Greys\\Greys\\wwwroot\\img\\favicons\\coracao.ico",
       "SourceId": "Greys",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\etec\\Desktop\\Greys\\Greys\\wwwroot\\",
       "BasePath": "_content/Greys",
-      "RelativePath": "img/favicons/android-chrome-512x512.png",
+      "RelativePath": "img/favicons/coracao.ico",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -354,15 +354,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\favicons\\android-chrome-512x512.png"
+      "OriginalItemSpec": "wwwroot\\img\\favicons\\coracao.ico"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Greys\\Greys\\wwwroot\\img\\favicons\\apple-touch-icon.png",
+      "Identity": "C:\\Users\\etec\\Desktop\\Greys\\Greys\\wwwroot\\img\\favicons\\favicon - 16x16.ico",
       "SourceId": "Greys",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\etec\\Desktop\\Greys\\Greys\\wwwroot\\",
       "BasePath": "_content/Greys",
-      "RelativePath": "img/favicons/apple-touch-icon.png",
+      "RelativePath": "img/favicons/favicon - 16x16.ico",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -371,15 +371,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\favicons\\apple-touch-icon.png"
+      "OriginalItemSpec": "wwwroot\\img\\favicons\\favicon - 16x16.ico"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Greys\\Greys\\wwwroot\\img\\favicons\\favicon-16x16.png",
+      "Identity": "C:\\Users\\etec\\Desktop\\Greys\\Greys\\wwwroot\\img\\favicons\\favicon - 32x32.ico",
       "SourceId": "Greys",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\etec\\Desktop\\Greys\\Greys\\wwwroot\\",
       "BasePath": "_content/Greys",
-      "RelativePath": "img/favicons/favicon-16x16.png",
+      "RelativePath": "img/favicons/favicon - 32x32.ico",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -388,24 +388,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\favicons\\favicon-16x16.png"
-    },
-    {
-      "Identity": "C:\\Users\\etec\\Desktop\\Greys\\Greys\\wwwroot\\img\\favicons\\favicon-32x32.png",
-      "SourceId": "Greys",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Greys\\Greys\\wwwroot\\",
-      "BasePath": "_content/Greys",
-      "RelativePath": "img/favicons/favicon-32x32.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\favicons\\favicon-32x32.png"
+      "OriginalItemSpec": "wwwroot\\img\\favicons\\favicon - 32x32.ico"
     },
     {
       "Identity": "C:\\Users\\etec\\Desktop\\Greys\\Greys\\wwwroot\\img\\favicons\\favicon.ico",
@@ -423,23 +406,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\favicons\\favicon.ico"
-    },
-    {
-      "Identity": "C:\\Users\\etec\\Desktop\\Greys\\Greys\\wwwroot\\img\\favicons\\hearth.png",
-      "SourceId": "Greys",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Greys\\Greys\\wwwroot\\",
-      "BasePath": "_content/Greys",
-      "RelativePath": "img/favicons/hearth.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\favicons\\hearth.png"
     },
     {
       "Identity": "C:\\Users\\etec\\Desktop\\Greys\\Greys\\wwwroot\\img\\favicons\\site.webmanifest",

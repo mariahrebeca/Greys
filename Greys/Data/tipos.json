@@ -1,7 +1,7 @@
 ﻿[
   {
     "Nome": "Pediatria",
-    "Cor": "#f63"
+    "Cor": "#de971d"
   },
   {
     "Nome": "Ortopedia",
@@ -13,7 +13,7 @@
   },
   {
     "Nome": "Cardiologia",
-    "Cor": "#fc3"
+    "Cor": "#de301d"
   },
   {
     "Nome": "Cirurgia Geral",
@@ -24,8 +24,8 @@
     "Cor": "#66b"
   },
   {
-    "Nome": "Cirurgia Plástica",
-    "Cor": "#f42"
+    "Nome": "Cirurgia Plastica",
+    "Cor": "#c90eb0"
   },
   {
     "Nome": "Residente",

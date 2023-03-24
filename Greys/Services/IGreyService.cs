@@ -9,6 +9,6 @@ namespace Greys.Services
         Grey GetGrey(int Numero);
         GreyDto GetGreyDto();
         DetailsDto GetDetailedGrey(int Numero);
-        Tipo GetTipos(string Nome);
+        Tipo GetTipo(string Nome);
     }
 }

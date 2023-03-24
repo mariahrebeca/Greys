@@ -4,7 +4,7 @@
     "Nome": "Alex Karev",
     "Descricao": "Iniciando como um simples estagiário, era impossível acreditar que ele seria alguém no hospital. Mesmo assim, ele deu a volta por cima, amadureceu, se transformou num cirurgião-chefe de dois hospitais e se despediu da série ao lado do amor de sua vida: Izzie Stevens.",
     "Tipo": [ "Pediatria" ] ,
-    "Imagem": "\\img\\elenco\\Alex_Karev.png"
+    "Imagem": "\\img\\elenco\\Alex_Karev.jpg"
   },
 
   {
@@ -12,7 +12,7 @@
     "Nome": "Callie Torres",
     "Descricao": "Callie foi um sucesso na série e teve uma grande importância ao tratar a bissexualidade na série. Na 12ª temporada, a médica passa por uma conturbada batalha judicial pela guarda da filha e decide abandonar o hospital para ir atrás de um novo amor em Nova York.",
     "Tipo": [ "Ortopedia", "Trauma" ] ,
-    "Imagem": "\\img\\elenco\\Callie_Torres.png"
+    "Imagem": "\\img\\elenco\\Callie_Torres.jpg"
   },
   
   {
@@ -20,15 +20,15 @@
     "Nome": "Cristina Yang",
     "Descricao": "Derek Shepherd era um renomado neurocirurgião, ex-chefe de neurocirurgia e diretor do conselho do Grey Sloan Memorial Hospital. Ele era casado com Meredith Gray e eles têm duas filhas, Zola e Ellis, e um filho, Bailey. Ele morreu após ser atropelado por um caminhão.",
     "Tipo": [ "Cardiologia" ] ,
-    "Imagem": "\\img\\elenco\\Cristina_Yang.png"
+    "Imagem": "\\img\\elenco\\Cristina_Yang.jpg"
   },
 
   {
     "Numero": 4,
-    "Nome": "Derek Sheperd",
+    "Nome": "Derek Shepherd",
     "Descricao": "Iniciando como um simples estagiário, era impossível acreditar que ele seria alguém no hospital. Mesmo assim, ele deu a volta por cima, amadureceu, se transformou num cirurgião-chefe de dois hospitais e se despediu da série ao lado do amor de sua vida: Izzie Stevens.",
     "Tipo": [ "Neurocirurgia" ] ,
-    "Imagem": "\\img\\elenco\\Derek_Sheperd.png"
+    "Imagem": "\\img\\elenco\\Derek_Shepherd.jpg"
   },
 
   {
@@ -36,7 +36,7 @@
     "Nome": "Richard Webber",
     "Descricao": "Richard Webber é o melhor chefe do hospital. Além de ser um cirurgião brilhante, ele também é um excelente professor. Porém, ao longo de dezessete temporadas, ele possui um dos arcos mais turbulentos.",
     "Tipo": [ "Cirurgia Geral" ] ,
-    "Imagem": "\\img\\elenco\\Dr._Richard_Webber.png"
+    "Imagem": "\\img\\elenco\\Dr._Richard_Webber.jpg"
   },
 
   {
@@ -44,7 +44,7 @@
     "Nome": "Ellis Grey",
     "Descricao": "Ellis é mãe de Meredith Grey, uma cirurgiã mundialmente famosa que foi duas vezes homenageada com o Prêmio Harper Avery . Mais tarde, ela foi diagnosticada com Alzheimer .",
     "Tipo": [ "Cirurgia Geral" ] ,
-    "Imagem": "\\img\\elenco\\Ellis_Grey.png"
+    "Imagem": "\\img\\elenco\\Ellis_Grey.jpg"
   },
 
   {
@@ -52,7 +52,7 @@
     "Nome": "George O'Malley",
     "Descricao": "Como interno, George teve um começo difícil, mas rapidamente se tornou um cirurgião muito habilidoso e talentoso. Ele era o melhor amigo de Izzie Stevens e foi casado com Callie Torres, mas se divorciou depois que a traiu. ",
     "Tipo": [ "Residente" ] ,
-    "Imagem": "\\img\\elenco\\George_O'Malley.png"
+    "Imagem": "\\img\\elenco\\George_O'Malley.jpg"
   },
 
   {
@@ -60,7 +60,7 @@
     "Nome": "Izzie Stevens",
     "Descricao": "Ela era residente cirúrgica no Seattle Grace Hospital até ser demitida logo após a fusão com o Mercy West Medical Center. Noiva de Denny Duquette até sua morte, ela agora está em um relacionamento com seu ex-marido, Alex Karev. Juntos, eles têm gêmeos, Alexis e Eli.",
     "Tipo": [ "Oncologia" ] ,
-    "Imagem": "\\img\\elenco\\Izzie_Stevens.png"
+    "Imagem": "\\img\\elenco\\Izzie_Stevens.jpg"
   },
 
   {
@@ -68,7 +68,7 @@
     "Nome": "Jackson Avery",
     "Descricao": "Jackson era casado com  April Kepner com quem tem uma filha e um filho falecido. Ele se mudou para Boston para assumir a Catherine Fox Foundation e trabalhar para alcançar a equidade na assistência médica. ",
     "Tipo": [ "Cirurgia Plastica" ] ,
-    "Imagem": "\\img\\elenco\\Jackson_Avery.png"
+    "Imagem": "\\img\\elenco\\Jackson_Avery.jpg"
   },
 
   {
@@ -76,7 +76,7 @@
     "Nome": "Jo Wilson",
     "Descricao": "Jo Wilson conseguiu abandonar a vida nas ruas e sair de um relacionamento abusivo para se tornar uma das melhores cirurgiões do hospital. Ela lutou contra tudo e todos para chegar onde está.",
     "Tipo": [ "Cirurgia Geral" ] ,
-    "Imagem": "\\img\\elenco\\Jo_Wilson.png"
+    "Imagem": "\\img\\elenco\\Jo_Wilson.jpg"
   },
 
   {
@@ -84,15 +84,15 @@
     "Nome": "Lexie Grey",
     "Descricao": "Ela era residente cirúrgica no Seattle Grace Mercy West Hospital até morrer no acidente de avião . Após sua morte, o hospital foi renomeado em homenagem a ela e a Mark Sloan , as duas vítimas fatais do acidente de avião.",
     "Tipo": [ "Residente" ] ,
-    "Imagem": "\\img\\elenco\\Lexie_Grey.png"
+    "Imagem": "\\img\\elenco\\Lexie_Grey.jpg"
   },
 
   {
     "Numero": 12,
     "Nome": "Mark Sloan",
     "Descricao": "Mark Sloan era o Chefe de Cirurgia Plástica do Hospital Seattle Grace Mercy West . Ele é o pai de Sloan Riley e Sofia Robbin Sloan Torres . Após sua morte, o hospital foi renomeado em homenagem a ele e Lexie Gray , as duas vítimas fatais após a queda do avião.",
-    "Tipo": [ "Cirurgia Plástica" ] ,
-    "Imagem": "\\img\\elenco\\Mark_Sloan.png"
+    "Tipo": [ "Cirurgia Plastica" ] ,
+    "Imagem": "\\img\\elenco\\Mark_Sloan.jpg"
   },
 
   {
@@ -100,7 +100,7 @@
     "Nome": "Meredith Grey",
     "Descricao": "Meredith é o legado de Greys Anatomy. Ela precisava atingir altas expectativas, já que sua mãe era uma das melhores profissionais do país. Mas ao invés de lutar para agradar a todos, ela escolheu seguir o próprio nome, sem aproveitar a fama contida em seu sobrenome.",
     "Tipo": [ "Cirurgia Geral" ] ,
-    "Imagem": "\\img\\elenco\\Meredith_Grey.png"
+    "Imagem": "\\img\\elenco\\Meredith_Grey.jpg"
   },
 
   {
@@ -108,7 +108,7 @@
     "Nome": "Miranda Bailey",
     "Descricao": "Durante seu estágio no Seattle Grace Hospital , ela era muito quieta e não tinha confiança, até que foi orientada por Richard Webber . Durante sua residência, ela era conhecida como a nazista por seus estagiários, devido à sua personalidade dura e sensata. No entanto, mais tarde ela abandonou o apelido depois de operar um verdadeiro nazista.",
     "Tipo": [ "Cirurgia Geral" ] ,
-    "Imagem": "\\img\\elenco\\Miranda_Bailey.png"
+    "Imagem": "\\img\\elenco\\Miranda_Bailey.jpg"
   },
 
   {
@@ -116,6 +116,6 @@
     "Nome": "Owen Hunt",
     "Descricao": "Ele serviu anteriormente no Exército, mas foi dispensado com honra devido à morte de todo o seu pelotão. Ele foi casado primeiro com Cristina Yang e depois com Amelia Shepherd , mas ambos os casamentos terminaram em divórcio. ",
     "Tipo": [ "Trauma" ] ,
-    "Imagem": "\\img\\elenco\\Owen_Hunt.png"
+    "Imagem": "\\img\\elenco\\Owen_Hunt.jpg"
   }
 ]

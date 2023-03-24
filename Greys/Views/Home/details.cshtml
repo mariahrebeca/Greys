@@ -2,13 +2,12 @@
 @inject Greys.Services.IGreyService service
 @{
     ViewData["Title"] = "Grey";
-} < section class="pt-5 container">
+} <section class="pt-5 container">
     <div class="row">
         <div class="col text-center">
             @if (Model.Prior != null)
             {
-                <a asp-action="Details" asp-route-Numero="@Model.Prior.Numero" class="btn
-btn-lg btn-outline-dark">
+                <a asp-action="Details" asp-route-Numero="@Model.Prior.Numero" class="btn btn-lg btn-outline-dark">
                     @Model.Prior.Numero.ToString("000") - @Model.Prior.Nome
                 </a>
             }
@@ -36,8 +35,7 @@ btn-lg btn-outline-dark">
             <div class="btn-group">
                 @foreach (var tipo in Model.Current.Tipo)
                 {
-                    <a asp-action="Index" asp-route-tipo="@tipo.ToLower()" class="btn btn-lg
-text-white" style="background-color:@service.GetTipos(tipo).Cor">@tipo</a>
+                    <a asp-action="Index" asp-route-tipo="@tipo.ToLower()" class="btn btn-lg text-white" style="background-color:@service.GetTipo(tipo).Cor">@tipo</a>
                 }
             </div>
         </div>
